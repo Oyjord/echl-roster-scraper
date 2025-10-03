@@ -32,5 +32,7 @@ doc.css("div.roster__list").each do |section|
   end
 end
 
+puts doc.to_html[0..2000]  # print first 2000 chars
+
 File.write("swamp_roster.json", JSON.pretty_generate(players))
 puts "✅ Roster saved to swamp_roster.json"
