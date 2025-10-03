@@ -1,0 +1,32 @@
+name: Scrape Swamp Rabbits Roster
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+
+      - name: Install echl_scraper gem
+        run: gem install echl_scraper
+
+      - name: Run scraper
+        run: ruby scrape_swamp.rb
+
+      - name: Commit updated JSON
+        run: |
+          git config user.name "James Seaman"
+          git config user.email "james@example.com"
+          git add swamp_roster.json
+          git diff --cached --quiet || git commit -m "Auto-update Ontario Reign roster"
+          git push
