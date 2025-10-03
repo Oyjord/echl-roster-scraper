@@ -17,8 +17,8 @@ jobs:
         with:
           ruby-version: '3.2'
 
-      - name: Install echl_scraper gem
-        run: gem install echl_scraper
+      - name: Install Nokogiri
+        run: gem install nokogiri
 
       - name: Run scraper
         run: ruby scrape_swamp.rb
@@ -28,5 +28,5 @@ jobs:
           git config user.name "James Seaman"
           git config user.email "james@example.com"
           git add swamp_roster.json
-          git diff --cached --quiet || git commit -m "Auto-update Ontario Reign roster"
+          git diff --cached --quiet || git commit -m "Auto-update Swamp Rabbits roster"
           git push
