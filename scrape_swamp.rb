@@ -6,44 +6,39 @@ url = "https://swamprabbits.com/team/roster"
 doc = Nokogiri::HTML(URI.open(url))
 
 players = []
-current_group = nil
 
-doc.css("h2, p").each do |node|
-  text = node.text.strip
-  next if text.empty?
+# Each player is in a <tr> with multiple <td> cells
+doc.css("tr").each do |row|
+  cells = row.css("td")
+  next if cells.empty?
 
-  # Detect section headers
-  if ["Forwards", "Defenders", "Goalies"].include?(text)
-    current_group = text
-    next
-  end
+  # First cell contains link, image, name, and jersey number
+  link = cells[0].at_css("a")&.[]("href")
+  img  = cells[0].at_css("img")&.[]("src")
+  name = cells[0].at_css("span")&.text&.strip
+  number = cells[0].at_css(".text-secondary")&.text&.strip&.delete("#")
 
-  # Skip glossary/staff
-  next if text.start_with?("Glossary") || text.start_with?("Staff")
+  # Remaining cells: position, height, weight, shoots/catches, birthplace
+  pos        = cells[1]&.text&.strip
+  height     = cells[2]&.text&.strip
+  weight     = cells[3]&.text&.strip
+  shoots     = cells[4]&.text&.strip
+  birthplace = cells[5]&.text&.strip
 
-  # Player lines contain a jersey number like "#10"
-  if current_group && text =~ /#\d+/
-    parts = text.split
-    number_index = parts.find_index { |p| p.start_with?("#") }
-    jersey_number = parts[number_index].delete("#")
-    name = parts[0...number_index].join(" ")
-    pos = parts[number_index + 1]
-    height = parts[number_index + 2]
-    weight = parts[number_index + 3]
-    shoots = parts[number_index + 4]
-    birthplace = parts[(number_index + 5)..].join(" ")
+  # Skip header rows or empty rows
+  next unless name && number
 
-    players << {
-      full_name: name,
-      jersey_number: jersey_number,
-      position: pos || current_group[0],
-      height: height,
-      weight: weight,
-      shoots_catches: shoots,
-      birthplace: birthplace,
-      group: current_group
-    }
-  end
+  players << {
+    full_name: name,
+    jersey_number: number,
+    position: pos,
+    height: height,
+    weight: weight,
+    shoots_catches: shoots,
+    birthplace: birthplace,
+    headshot: img,
+    profile_url: link
+  }
 end
 
 File.write("swamp_roster.json", JSON.pretty_generate(players))
