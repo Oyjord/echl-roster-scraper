@@ -1,3 +1,211 @@
 [
-
+  {
+    "full_name": "Brent Pedersen\n    \n            #10",
+    "jersey_number": "10",
+    "position": "F",
+    "height": "6-2",
+    "weight": "220",
+    "shoots_catches": "L",
+    "birthplace": "Arthur, ON",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/7603.jpg",
+    "profile_url": "https://swamprabbits.com/players/7603/brent-pedersen"
+  },
+  {
+    "full_name": "Ben Poisson\n    \n            #12",
+    "jersey_number": "12",
+    "position": "F",
+    "height": "6-1",
+    "weight": "200",
+    "shoots_catches": "L",
+    "birthplace": "Vancouver, BC",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/10409.jpg",
+    "profile_url": "https://swamprabbits.com/players/10409/ben-poisson"
+  },
+  {
+    "full_name": "Yaroslav Yevdokimov\n    \n            #16",
+    "jersey_number": "16",
+    "position": "F",
+    "height": "6-1",
+    "weight": "190",
+    "shoots_catches": "L",
+    "birthplace": "Chelyabinsk, Russia",
+    "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
+    "profile_url": "https://swamprabbits.com/players/10019/yaroslav-yevdokimov"
+  },
+  {
+    "full_name": "Ryan O'Reilly\n    \n            #19",
+    "jersey_number": "19",
+    "position": "F",
+    "height": "6-2",
+    "weight": "225",
+    "shoots_catches": "R",
+    "birthplace": "Southlake, TX",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/10807.jpg",
+    "profile_url": "https://swamprabbits.com/players/10807/ryan-oreilly"
+  },
+  {
+    "full_name": "Ryan O'Hara\n    \n            #20",
+    "jersey_number": "20",
+    "position": "F",
+    "height": "5-10",
+    "weight": "180",
+    "shoots_catches": "L",
+    "birthplace": "Oakville, ON",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/10767.jpg",
+    "profile_url": "https://swamprabbits.com/players/10767/ryan-ohara"
+  },
+  {
+    "full_name": "Stepan Timofeyev\n    \n            #22",
+    "jersey_number": "22",
+    "position": "F",
+    "height": "5'9",
+    "weight": "190",
+    "shoots_catches": "R",
+    "birthplace": "St. Petersburg, Russia",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/9646.jpg",
+    "profile_url": "https://swamprabbits.com/players/9646/stepan-timofeyev"
+  },
+  {
+    "full_name": "Jack Brackett\n    \n            #24",
+    "jersey_number": "24",
+    "position": "F",
+    "height": "5-11",
+    "weight": "180",
+    "shoots_catches": "L",
+    "birthplace": "Manassas, VA",
+    "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
+    "profile_url": "https://swamprabbits.com/players/10722/jack-brackett"
+  },
+  {
+    "full_name": "Jake Goldowski\n    \n            #26",
+    "jersey_number": "26",
+    "position": "F",
+    "height": "6-3",
+    "weight": "203",
+    "shoots_catches": "R",
+    "birthplace": "Thornhurst, PA",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/9484.jpg",
+    "profile_url": "https://swamprabbits.com/players/9484/jake-goldowski"
+  },
+  {
+    "full_name": "Cam Hausinger\n    \n            #38",
+    "jersey_number": "38",
+    "position": "F",
+    "height": "5-10",
+    "weight": "192",
+    "shoots_catches": "R",
+    "birthplace": "Anchorage, AK, United States",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/8454.jpg",
+    "profile_url": "https://swamprabbits.com/players/8454/cam-hausinger"
+  },
+  {
+    "full_name": "Patrick Polino\n    \n            #72",
+    "jersey_number": "72",
+    "position": "LW",
+    "height": "5-9",
+    "weight": "180",
+    "shoots_catches": "R",
+    "birthplace": "Buffalo, NY, United States",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/8467.jpg",
+    "profile_url": "https://swamprabbits.com/players/8467/patrick-polino"
+  },
+  {
+    "full_name": "Austin Saint\n    \n            #91",
+    "jersey_number": "91",
+    "position": "F",
+    "height": "5-11",
+    "weight": "190",
+    "shoots_catches": "R",
+    "birthplace": "Bonnyville, AB",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/10187.jpg",
+    "profile_url": "https://swamprabbits.com/players/10187/austin-saint"
+  },
+  {
+    "full_name": "Jake Murray\n    \n            #5",
+    "jersey_number": "5",
+    "position": "D",
+    "height": "6-3",
+    "weight": "216",
+    "shoots_catches": "L",
+    "birthplace": "Oakville, ON, Canada",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/9869.jpg",
+    "profile_url": "https://swamprabbits.com/players/9869/jake-murray"
+  },
+  {
+    "full_name": "Tristan De Jong\n    \n            #7",
+    "jersey_number": "7",
+    "position": "D",
+    "height": "6-2",
+    "weight": "200",
+    "shoots_catches": "R",
+    "birthplace": "Breslau, ON",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/10684.jpg",
+    "profile_url": "https://swamprabbits.com/players/10684/tristan-de-jong"
+  },
+  {
+    "full_name": "Jordan Power\n    \n            #13",
+    "jersey_number": "13",
+    "position": "D",
+    "height": "6-2",
+    "weight": "200",
+    "shoots_catches": "L",
+    "birthplace": "Ottawa, ON",
+    "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
+    "profile_url": "https://swamprabbits.com/players/10817/jordan-power"
+  },
+  {
+    "full_name": "David Drake\n    \n            #25",
+    "jersey_number": "25",
+    "position": "D",
+    "height": "6-5",
+    "weight": "215",
+    "shoots_catches": "L",
+    "birthplace": "Naperville, IL",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/7821.jpg",
+    "profile_url": "https://swamprabbits.com/players/7821/david-drake"
+  },
+  {
+    "full_name": "Jacob Modry\n    \n            #44",
+    "jersey_number": "44",
+    "position": "D",
+    "height": "6'6",
+    "weight": "216",
+    "shoots_catches": "L",
+    "birthplace": "El Segundo, CA",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/9759.jpg",
+    "profile_url": "https://swamprabbits.com/players/9759/jacob-modry"
+  },
+  {
+    "full_name": "Dustin Geregach\n    \n            #51",
+    "jersey_number": "51",
+    "position": "D",
+    "height": "6-0",
+    "weight": "180",
+    "shoots_catches": "R",
+    "birthplace": "McKees Rocks, PA",
+    "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
+    "profile_url": "https://swamprabbits.com/players/10708/dustin-geregach"
+  },
+  {
+    "full_name": "Josh Atkinson\n    \n            #59",
+    "jersey_number": "59",
+    "position": "D",
+    "height": "6-1",
+    "weight": "194",
+    "shoots_catches": "L",
+    "birthplace": "Spruce Grove, AB, Canada",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/6412.jpg",
+    "profile_url": "https://swamprabbits.com/players/6412/josh-atkinson"
+  },
+  {
+    "full_name": "Pierce Charleson\n    \n            #39",
+    "jersey_number": "39",
+    "position": "G",
+    "height": "6-3",
+    "weight": "195",
+    "shoots_catches": "L",
+    "birthplace": "Aurora, ON",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/10746.jpg",
+    "profile_url": "https://swamprabbits.com/players/10746/pierce-charleson"
+  }
 ]
