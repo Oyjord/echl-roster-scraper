@@ -165,17 +165,6 @@
     "profile_url": "https://swamprabbits.com/players/10817/jordan-power"
   },
   {
-    "full_name": "David Drake\n    \n            #25",
-    "jersey_number": "25",
-    "position": "D",
-    "height": "6-5",
-    "weight": "215",
-    "shoots_catches": "L",
-    "birthplace": "Naperville, IL",
-    "headshot": "https://assets.leaguestat.com/echl/120x160/7821.jpg",
-    "profile_url": "https://swamprabbits.com/players/7821/david-drake"
-  },
-  {
     "full_name": "Jacob Modry\n    \n            #44",
     "jersey_number": "44",
     "position": "D",
@@ -196,6 +185,17 @@
     "birthplace": "McKees Rocks, PA",
     "headshot": "https://assets.leaguestat.com/echl/120x160/10708.jpg",
     "profile_url": "https://swamprabbits.com/players/10708/dustin-geregach"
+  },
+  {
+    "full_name": "David Drake\n    \n            #55",
+    "jersey_number": "55",
+    "position": "D",
+    "height": "6-5",
+    "weight": "215",
+    "shoots_catches": "L",
+    "birthplace": "Naperville, IL",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/7821.jpg",
+    "profile_url": "https://swamprabbits.com/players/7821/david-drake"
   },
   {
     "full_name": "Josh Atkinson\n    \n            #59",
