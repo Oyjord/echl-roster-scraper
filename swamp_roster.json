@@ -132,6 +132,39 @@
     "profile_url": "https://swamprabbits.com/players/10187/austin-saint"
   },
   {
+    "full_name": "Liam Finlay\n    \n            #15",
+    "jersey_number": "15",
+    "position": "RW",
+    "height": "5-7",
+    "weight": "155",
+    "shoots_catches": "R",
+    "birthplace": "Kelowna, BC",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/9464.jpg",
+    "profile_url": "https://swamprabbits.com/players/9464/liam-finlay"
+  },
+  {
+    "full_name": "Yaroslav Yevdokimov\n    \n            #16",
+    "jersey_number": "16",
+    "position": "F",
+    "height": "6-1",
+    "weight": "190",
+    "shoots_catches": "L",
+    "birthplace": "Chelyabinsk, Russia",
+    "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
+    "profile_url": "https://swamprabbits.com/players/10019/yaroslav-yevdokimov"
+  },
+  {
+    "full_name": "Jake Goldowski\n    \n            #26",
+    "jersey_number": "26",
+    "position": "F",
+    "height": "6-3",
+    "weight": "203",
+    "shoots_catches": "R",
+    "birthplace": "Thornhurst, PA",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/9484.jpg",
+    "profile_url": "https://swamprabbits.com/players/9484/jake-goldowski"
+  },
+  {
     "full_name": "Jake Murray\n    \n            #5",
     "jersey_number": "5",
     "position": "D",
