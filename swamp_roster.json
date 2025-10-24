@@ -77,17 +77,6 @@
     "profile_url": "https://swamprabbits.com/players/10767/ryan-ohara"
   },
   {
-    "full_name": "Stepan Timofeyev\n    \n            #22",
-    "jersey_number": "22",
-    "position": "F",
-    "height": "5'9",
-    "weight": "190",
-    "shoots_catches": "R",
-    "birthplace": "St. Petersburg, Russia",
-    "headshot": "https://assets.leaguestat.com/echl/120x160/9646.jpg",
-    "profile_url": "https://swamprabbits.com/players/9646/stepan-timofeyev"
-  },
-  {
     "full_name": "Jack Brackett\n    \n            #24",
     "jersey_number": "24",
     "position": "F",
@@ -187,6 +176,17 @@
     "profile_url": "https://swamprabbits.com/players/10817/jordan-power"
   },
   {
+    "full_name": "Parker Berge\n    \n            #40",
+    "jersey_number": "40",
+    "position": "D",
+    "height": "6-0",
+    "weight": "181",
+    "shoots_catches": "L",
+    "birthplace": "Edmonton, AB",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/10416.jpg",
+    "profile_url": "https://swamprabbits.com/players/10416/parker-berge"
+  },
+  {
     "full_name": "Tim Lovell\n    \n            #43",
     "jersey_number": "43",
     "position": "D",
@@ -229,6 +229,17 @@
     "birthplace": "Hermosa Beach, CA",
     "headshot": "https://assets.leaguestat.com/echl/120x160/10768.jpg",
     "profile_url": "https://swamprabbits.com/players/10768/mattias-sholl"
+  },
+  {
+    "full_name": "Isaiah Saville\n    \n            #31",
+    "jersey_number": "31",
+    "position": "G",
+    "height": "6-1",
+    "weight": "196",
+    "shoots_catches": "R",
+    "birthplace": "Anchorage, AK",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/9579.jpg",
+    "profile_url": "https://swamprabbits.com/players/9579/isaiah-saville"
   },
   {
     "full_name": "Pierce Charleson\n    \n            #39",
