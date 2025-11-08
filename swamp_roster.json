@@ -132,17 +132,6 @@
     "profile_url": "https://swamprabbits.com/players/8467/patrick-polino"
   },
   {
-    "full_name": "Kenta Isogai\n    \n            #86",
-    "jersey_number": "86",
-    "position": "F",
-    "height": "5-11",
-    "weight": "180",
-    "shoots_catches": "L",
-    "birthplace": "Nagano, Japan",
-    "headshot": "https://assets.leaguestat.com/echl/120x160/11009.jpg",
-    "profile_url": "https://swamprabbits.com/players/11009/kenta-isogai"
-  },
-  {
     "full_name": "Austin Saint\n    \n            #91",
     "jersey_number": "91",
     "position": "F",
@@ -185,6 +174,17 @@
     "birthplace": "Ottawa, ON",
     "headshot": "https://assets.leaguestat.com/echl/120x160/10817.jpg",
     "profile_url": "https://swamprabbits.com/players/10817/jordan-power"
+  },
+  {
+    "full_name": "Tim Rego\n    \n            #21",
+    "jersey_number": "21",
+    "position": "D",
+    "height": "6-0",
+    "weight": "190",
+    "shoots_catches": "L",
+    "birthplace": "Mansfield, MA",
+    "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
+    "profile_url": "https://swamprabbits.com/players/10824/tim-rego"
   },
   {
     "full_name": "Parker Berge\n    \n            #40",
