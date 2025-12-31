@@ -22,6 +22,17 @@
     "profile_url": "https://swamprabbits.com/players/10409/ben-poisson"
   },
   {
+    "full_name": "Yaroslav Yevdokimov\n    \n            #16",
+    "jersey_number": "16",
+    "position": "F",
+    "height": "6-1",
+    "weight": "190",
+    "shoots_catches": "L",
+    "birthplace": "Chelyabinsk, Russia",
+    "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
+    "profile_url": "https://swamprabbits.com/players/10019/yaroslav-yevdokimov"
+  },
+  {
     "full_name": "Hudson Schandor\n    \n            #17",
     "jersey_number": "17",
     "position": "F",
@@ -55,6 +66,17 @@
     "profile_url": "https://swamprabbits.com/players/10767/ryan-ohara"
   },
   {
+    "full_name": "Remy Parker\n    \n            #22",
+    "jersey_number": "22",
+    "position": "F",
+    "height": "6-3",
+    "weight": "183",
+    "shoots_catches": "L",
+    "birthplace": "Montclair, NJ",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/10230.jpg",
+    "profile_url": "https://swamprabbits.com/players/10230/remy-parker"
+  },
+  {
     "full_name": "Jack Brackett\n    \n            #24",
     "jersey_number": "24",
     "position": "F",
@@ -75,17 +97,6 @@
     "birthplace": "Woodbridge, ON, Canada",
     "headshot": "https://assets.leaguestat.com/echl/120x160/9361.jpg",
     "profile_url": "https://swamprabbits.com/players/9361/dante-sheriff"
-  },
-  {
-    "full_name": "Carter Savoie\n    \n            #27",
-    "jersey_number": "27",
-    "position": "LW",
-    "height": "5-10",
-    "weight": "192",
-    "shoots_catches": "L",
-    "birthplace": "St. Albert, AB",
-    "headshot": "https://assets.leaguestat.com/echl/120x160/10417.jpg",
-    "profile_url": "https://swamprabbits.com/players/10417/carter-savoie"
   },
   {
     "full_name": "Cam Hausinger\n    \n            #38",
@@ -141,28 +152,6 @@
     "birthplace": "Breslau, ON",
     "headshot": "https://assets.leaguestat.com/echl/120x160/10684.jpg",
     "profile_url": "https://swamprabbits.com/players/10684/tristan-de-jong"
-  },
-  {
-    "full_name": "Tim Rego\n    \n            #21",
-    "jersey_number": "21",
-    "position": "D",
-    "height": "6-0",
-    "weight": "190",
-    "shoots_catches": "L",
-    "birthplace": "Mansfield, MA",
-    "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
-    "profile_url": "https://swamprabbits.com/players/10824/tim-rego"
-  },
-  {
-    "full_name": "Parker Berge\n    \n            #40",
-    "jersey_number": "40",
-    "position": "D",
-    "height": "6-0",
-    "weight": "181",
-    "shoots_catches": "L",
-    "birthplace": "Edmonton, AB",
-    "headshot": "https://assets.leaguestat.com/echl/120x160/10416.jpg",
-    "profile_url": "https://swamprabbits.com/players/10416/parker-berge"
   },
   {
     "full_name": "Tim Lovell\n    \n            #43",
