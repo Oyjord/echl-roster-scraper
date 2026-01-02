@@ -1,5 +1,16 @@
 [
   {
+    "full_name": "Keaton Mastrodonato\n    \n            #8",
+    "jersey_number": "8",
+    "position": "F",
+    "height": "6-0",
+    "weight": "205",
+    "shoots_catches": "R",
+    "birthplace": "Powell River, BC, Canada",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/10051.jpg",
+    "profile_url": "https://swamprabbits.com/players/10051/keaton-mastrodonato"
+  },
+  {
     "full_name": "Brent Pedersen\n    \n            #10",
     "jersey_number": "10",
     "position": "F",
@@ -110,17 +121,6 @@
     "profile_url": "https://swamprabbits.com/players/8454/cam-hausinger"
   },
   {
-    "full_name": "Bryan Moore\n    \n            #51",
-    "jersey_number": "51",
-    "position": "F",
-    "height": "5-11",
-    "weight": "203",
-    "shoots_catches": "L",
-    "birthplace": "Charlotte, NC",
-    "headshot": "https://assets.leaguestat.com/echl/120x160/6182.jpg",
-    "profile_url": "https://swamprabbits.com/players/6182/bryan-moore"
-  },
-  {
     "full_name": "Patrick Polino\n    \n            #72",
     "jersey_number": "72",
     "position": "LW",
@@ -165,6 +165,17 @@
     "profile_url": "https://swamprabbits.com/players/10684/tristan-de-jong"
   },
   {
+    "full_name": "Parker Berge\n    \n            #40",
+    "jersey_number": "40",
+    "position": "D",
+    "height": "6-0",
+    "weight": "181",
+    "shoots_catches": "L",
+    "birthplace": "Edmonton, AB",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/10416.jpg",
+    "profile_url": "https://swamprabbits.com/players/10416/parker-berge"
+  },
+  {
     "full_name": "Tim Lovell\n    \n            #43",
     "jersey_number": "43",
     "position": "D",
@@ -196,6 +207,17 @@
     "birthplace": "Spruce Grove, AB, Canada",
     "headshot": "https://assets.leaguestat.com/echl/120x160/6412.jpg",
     "profile_url": "https://swamprabbits.com/players/6412/josh-atkinson"
+  },
+  {
+    "full_name": "Mattias Sholl\n    \n            #30",
+    "jersey_number": "30",
+    "position": "G",
+    "height": "5-11",
+    "weight": "180",
+    "shoots_catches": "L",
+    "birthplace": "Hermosa Beach, CA",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/10768.jpg",
+    "profile_url": "https://swamprabbits.com/players/10768/mattias-sholl"
   },
   {
     "full_name": "Carter McPhail\n    \n            #35",
