@@ -1,16 +1,5 @@
 [
   {
-    "full_name": "Keaton Mastrodonato\n    \n            #8",
-    "jersey_number": "8",
-    "position": "F",
-    "height": "6-0",
-    "weight": "205",
-    "shoots_catches": "R",
-    "birthplace": "Powell River, BC, Canada",
-    "headshot": "https://assets.leaguestat.com/echl/120x160/10051.jpg",
-    "profile_url": "https://swamprabbits.com/players/10051/keaton-mastrodonato"
-  },
-  {
     "full_name": "Brent Pedersen\n    \n            #10",
     "jersey_number": "10",
     "position": "F",
@@ -165,6 +154,17 @@
     "profile_url": "https://swamprabbits.com/players/10684/tristan-de-jong"
   },
   {
+    "full_name": "Lordanthony Grissom\n    \n            #25",
+    "jersey_number": "25",
+    "position": "D",
+    "height": "6-4",
+    "weight": "220",
+    "shoots_catches": "L",
+    "birthplace": "Detroit, MI",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/9462.jpg",
+    "profile_url": "https://swamprabbits.com/players/9462/lordanthony-grissom"
+  },
+  {
     "full_name": "Parker Berge\n    \n            #40",
     "jersey_number": "40",
     "position": "D",
@@ -218,6 +218,17 @@
     "birthplace": "Hermosa Beach, CA",
     "headshot": "https://assets.leaguestat.com/echl/120x160/10768.jpg",
     "profile_url": "https://swamprabbits.com/players/10768/mattias-sholl"
+  },
+  {
+    "full_name": "Isaiah Saville\n    \n            #31",
+    "jersey_number": "31",
+    "position": "G",
+    "height": "6-1",
+    "weight": "196",
+    "shoots_catches": "R",
+    "birthplace": "Anchorage, AK",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/9579.jpg",
+    "profile_url": "https://swamprabbits.com/players/9579/isaiah-saville"
   },
   {
     "full_name": "Pierce Charleson\n    \n            #39",
