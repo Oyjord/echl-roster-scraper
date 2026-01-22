@@ -132,6 +132,17 @@
     "profile_url": "https://swamprabbits.com/players/8467/patrick-polino"
   },
   {
+    "full_name": "Kenta Isogai\n    \n            #86",
+    "jersey_number": "86",
+    "position": "F",
+    "height": "5-11",
+    "weight": "180",
+    "shoots_catches": "L",
+    "birthplace": "Nagano, Japan",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/11009.jpg",
+    "profile_url": "https://swamprabbits.com/players/11009/kenta-isogai"
+  },
+  {
     "full_name": "John Parker-Jones\n    \n            #95",
     "jersey_number": "95",
     "position": "RW",
@@ -209,6 +220,17 @@
     "profile_url": "https://swamprabbits.com/players/9759/jacob-modry"
   },
   {
+    "full_name": "Cole Fraser\n    \n            #51",
+    "jersey_number": "51",
+    "position": "D",
+    "height": "6-3",
+    "weight": "205",
+    "shoots_catches": "R",
+    "birthplace": "Carleton Place, ON",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/8215.jpg",
+    "profile_url": "https://swamprabbits.com/players/8215/cole-fraser"
+  },
+  {
     "full_name": "Josh Atkinson\n    \n            #59",
     "jersey_number": "59",
     "position": "D",
@@ -229,17 +251,6 @@
     "birthplace": "Hermosa Beach, CA",
     "headshot": "https://assets.leaguestat.com/echl/120x160/10768.jpg",
     "profile_url": "https://swamprabbits.com/players/10768/mattias-sholl"
-  },
-  {
-    "full_name": "Isaiah Saville\n    \n            #31",
-    "jersey_number": "31",
-    "position": "G",
-    "height": "6-1",
-    "weight": "196",
-    "shoots_catches": "R",
-    "birthplace": "Anchorage, AK",
-    "headshot": "https://assets.leaguestat.com/echl/120x160/9579.jpg",
-    "profile_url": "https://swamprabbits.com/players/9579/isaiah-saville"
   },
   {
     "full_name": "Pierce Charleson\n    \n            #39",
