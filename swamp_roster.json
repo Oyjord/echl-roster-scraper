@@ -22,6 +22,28 @@
     "profile_url": "https://swamprabbits.com/players/10409/ben-poisson"
   },
   {
+    "full_name": "Josh Zary\n    \n            #13",
+    "jersey_number": "13",
+    "position": "F",
+    "height": "6-1",
+    "weight": "201",
+    "shoots_catches": "L",
+    "birthplace": "Nanaimo, BC, Canada",
+    "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
+    "profile_url": "https://swamprabbits.com/players/11288/josh-zary"
+  },
+  {
+    "full_name": "Caiden Gault\n    \n            #14",
+    "jersey_number": "14",
+    "position": "F",
+    "height": "6-1",
+    "weight": "193",
+    "shoots_catches": "L",
+    "birthplace": "Oakbank, MB, Canada",
+    "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
+    "profile_url": "https://swamprabbits.com/players/11287/caiden-gault"
+  },
+  {
     "full_name": "Wade Murphy\n    \n            #16",
     "jersey_number": "16",
     "position": "F",
@@ -143,6 +165,17 @@
     "profile_url": "https://swamprabbits.com/players/9449/john-parker-jones"
   },
   {
+    "full_name": "Jake Murray\n    \n            #5",
+    "jersey_number": "5",
+    "position": "D",
+    "height": "6-3",
+    "weight": "216",
+    "shoots_catches": "L",
+    "birthplace": "Oakville, ON, Canada",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/9869.jpg",
+    "profile_url": "https://swamprabbits.com/players/9869/jake-murray"
+  },
+  {
     "full_name": "Tristan De Jong\n    \n            #7",
     "jersey_number": "7",
     "position": "D",
@@ -152,6 +185,17 @@
     "birthplace": "Breslau, ON",
     "headshot": "https://assets.leaguestat.com/echl/120x160/10684.jpg",
     "profile_url": "https://swamprabbits.com/players/10684/tristan-de-jong"
+  },
+  {
+    "full_name": "Tim Rego\n    \n            #21",
+    "jersey_number": "21",
+    "position": "D",
+    "height": "6-0",
+    "weight": "190",
+    "shoots_catches": "L",
+    "birthplace": "Mansfield, MA",
+    "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
+    "profile_url": "https://swamprabbits.com/players/10824/tim-rego"
   },
   {
     "full_name": "Parker Berge\n    \n            #40",
