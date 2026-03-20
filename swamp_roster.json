@@ -1,5 +1,16 @@
 [
   {
+    "full_name": "Hunter Andrew\n    \n            #4",
+    "jersey_number": "4",
+    "position": "F",
+    "height": "6-0",
+    "weight": "185",
+    "shoots_catches": "L",
+    "birthplace": "N/A",
+    "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
+    "profile_url": "https://swamprabbits.com/players/11322/hunter-andrew"
+  },
+  {
     "full_name": "Brent Pedersen\n    \n            #10",
     "jersey_number": "10",
     "position": "F",
@@ -132,6 +143,17 @@
     "profile_url": "https://swamprabbits.com/players/10080/neil-shea"
   },
   {
+    "full_name": "Denis Smirnov\n    \n            #38",
+    "jersey_number": "38",
+    "position": "F",
+    "height": "5-9",
+    "weight": "180",
+    "shoots_catches": "L",
+    "birthplace": "Moscow, Russia",
+    "headshot": "https://assets.leaguestat.com/echl/120x160/8550.jpg",
+    "profile_url": "https://swamprabbits.com/players/8550/denis-smirnov"
+  },
+  {
     "full_name": "Patrick Polino\n    \n            #72",
     "jersey_number": "72",
     "position": "LW",
@@ -141,6 +163,17 @@
     "birthplace": "Buffalo, NY, United States",
     "headshot": "https://assets.leaguestat.com/echl/120x160/8467.jpg",
     "profile_url": "https://swamprabbits.com/players/8467/patrick-polino"
+  },
+  {
+    "full_name": "Connor Milburn\n    \n            #91",
+    "jersey_number": "91",
+    "position": "F",
+    "height": "6-5",
+    "weight": "212",
+    "shoots_catches": "R",
+    "birthplace": "Kamloops, BC, Canada",
+    "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
+    "profile_url": "https://swamprabbits.com/players/11285/connor-milburn"
   },
   {
     "full_name": "John Parker-Jones\n    \n            #95",
