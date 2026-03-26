@@ -110,17 +110,6 @@
     "profile_url": "https://swamprabbits.com/players/10767/ryan-ohara"
   },
   {
-    "full_name": "Remy Parker\n    \n            #22",
-    "jersey_number": "22",
-    "position": "F",
-    "height": "6-3",
-    "weight": "183",
-    "shoots_catches": "L",
-    "birthplace": "Montclair, NJ",
-    "headshot": "https://assets.leaguestat.com/echl/120x160/10230.jpg",
-    "profile_url": "https://swamprabbits.com/players/10230/remy-parker"
-  },
-  {
     "full_name": "Jack Brackett\n    \n            #24",
     "jersey_number": "24",
     "position": "F",
@@ -196,6 +185,17 @@
     "birthplace": "Brantford, Ontario, Canada",
     "headshot": "https://assets.leaguestat.com/echl/120x160/9449.jpg",
     "profile_url": "https://swamprabbits.com/players/9449/john-parker-jones"
+  },
+  {
+    "full_name": "Joe Prouty\n    \n            #2",
+    "jersey_number": "2",
+    "position": "D",
+    "height": "6-1",
+    "weight": "203",
+    "shoots_catches": "R",
+    "birthplace": "Apple Valley, MN, United States",
+    "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
+    "profile_url": "https://swamprabbits.com/players/11345/joe-prouty"
   },
   {
     "full_name": "Jake Murray\n    \n            #5",
@@ -295,6 +295,17 @@
     "birthplace": "Anchorage, AK",
     "headshot": "https://assets.leaguestat.com/echl/120x160/9579.jpg",
     "profile_url": "https://swamprabbits.com/players/9579/isaiah-saville"
+  },
+  {
+    "full_name": "Simon Latkoczy\n    \n            #35",
+    "jersey_number": "35",
+    "position": "G",
+    "height": "5-11",
+    "weight": "180",
+    "shoots_catches": "R",
+    "birthplace": "Trenčín, Slovakia",
+    "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
+    "profile_url": "https://swamprabbits.com/players/11346/simon-latkoczy"
   },
   {
     "full_name": "Pierce Charleson\n    \n            #39",
