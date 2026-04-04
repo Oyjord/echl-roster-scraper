@@ -71,7 +71,7 @@
     "position": "F",
     "height": "5-9",
     "weight": "180",
-    "shoots_catches": "R",
+    "shoots_catches": "L",
     "birthplace": "North Vancouver, BC",
     "headshot": "https://assets.leaguestat.com/echl/120x160/11010.jpg",
     "profile_url": "https://swamprabbits.com/players/11010/hudson-schandor"
@@ -159,7 +159,7 @@
     "position": "F",
     "height": "6-5",
     "weight": "212",
-    "shoots_catches": "R",
+    "shoots_catches": "L",
     "birthplace": "Kamloops, BC, Canada",
     "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
     "profile_url": "https://swamprabbits.com/players/11285/connor-milburn"
@@ -214,7 +214,7 @@
     "position": "D",
     "height": "6-0",
     "weight": "190",
-    "shoots_catches": "L",
+    "shoots_catches": "R",
     "birthplace": "Mansfield, MA",
     "headshot": "https://lscluster.hockeytech.com/img/nophoto.png",
     "profile_url": "https://swamprabbits.com/players/10824/tim-rego"
